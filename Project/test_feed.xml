@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Test Feed</title>
+    <link>http://example.com/</link>
+    <description>Test advisories</description>
+    <item>
+      <title>Test Advisory 1</title>
+      <link>http://example.com/advisory/1</link>
+      <description>Test vulnerability affecting ExampleApp 1.2.3</description>
+      <pubDate>Mon, 09 Jun 2025 12:00:00 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
